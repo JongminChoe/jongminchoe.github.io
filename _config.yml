@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Site Title"
+title                    : "JongminChoe's Devlog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jongmin Choe"
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Jongmin Choe"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Seoul"
+  bio              : "Backend Developer"
+  location         : "Seoul, South Korea"
   email            : "aaaa961224@gmail.com"
   links:
     - label: "Email"
@@ -275,6 +275,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: true
+      share: false
       related: true
       toc: true
+      classes: wide
