@@ -307,3 +307,9 @@ Collection의 정렬 메소드들은 내부적으로 PHP의 기본 정렬 함수
 {% endhighlight %}
 
 위와 같이 정렬이 잘 된 것을 확인할 수 있습니다.
+
+# Collection 메소드로 만들기
+앞서 만든 [일부 필드에 대한 기준만 있는 경우](#일부-필드에-대한-기준만-있는-경우)의 해결 방법을 이용해서 좀 더 편리하게 사용할 수 있도록 Collection에 새로운 메소드를 추가해 보았습니다.
+
+아래 GitHub 레포지토리에서 확인하실 수 있습니다.  
+[https://github.com/JongminChoe/laravel-collection-stable-sort](https://github.com/JongminChoe/laravel-collection-stable-sort)
